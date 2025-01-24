@@ -1,2 +1,5 @@
 # Pulse
 Are Diffusion Effective for Time Series Forecasting?
+
+>Time series prediction is crucial across various sectors, particularly in finance and retail, for tasks such as predicting price movements and optimizing inventory. While the Transformer model has influenced state-of-the-art models like AutoFormer and Informer, recent advancements have introduced diffusion models into time series forecasting. A recent study suggests autoregressive methods may be more suitable, but we propose that diffusion models offer unique advantages. Our model, termed _Pulse_, introduces a relational learning strategy to address evolving attack methods, overcoming data scarcity, and enhancing detection performance. By integrating node features with graph structures and using contrastive learning, we improve anomaly detection. Extensive experiments on three datasets validate our method's effectiveness and superiority. The paper is structured to cover related work, methodology, experimental results, and future directions.
+
